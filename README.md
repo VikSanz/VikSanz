@@ -14,5 +14,7 @@
 ### Connect with me:
 
 [Youtube Channel](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ)
+
+
 [Linkedin](https://www.linkedin.com/in/victorsanzf/)
 
