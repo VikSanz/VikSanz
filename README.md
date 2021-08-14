@@ -1,4 +1,4 @@
-### Welcome to my Github. My name is Victor 👋
+## Welcome to my Github. My name is Victor 👋
 
 ### I'm a Mathematician with a master's degree in Computer Science
 
@@ -10,5 +10,8 @@
         - I can speak in Spanish, English and German and I'm currently learning Italian. Vorrei viaggiare a Roma.🇮🇹🇮🇹🇮🇹
         - I practice calisthenics and crossfit. 👊
 
+### Connect with me:
 
-# VikSanz
+[Youtube Channel](https://www.youtube.com/channel/UCysMbdMKB0HWV2eXwX1keAQ)
+[Linkedin](https://www.linkedin.com/in/victorsanzf/)
+
