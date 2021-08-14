@@ -11,7 +11,7 @@
   - I can speak in Spanish, English and German and I'm currently learning Italian. Vorrei viaggiare a Roma.🇮🇹🇮🇹🇮🇹
   - I practice calisthenics and crossfit. 👊
 
-
+---
 
 ### Languages & Tools
 
