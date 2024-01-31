@@ -2,7 +2,7 @@
 
 ### I'm a Mathematician with a master's degree in Computer Science
 
-- 🤖 I’m currently working as an IT Assistant.
+- 🤖 I’m currently working as a Business Analyst.
 - 🌱 I'm constantly learning new technologies to bring my mathematical knowledge closer to computing.
 - 🧮 Both of my dissertations(BSc & MSc) deal with problems in graphs/networks.
 - ⚡ Fun facts:
